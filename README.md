@@ -34,7 +34,9 @@ This is a simple REST API built using Flask to manage products with the followin
   PREREQUISITES:
 
     Python 3.x
-    pip (Python package manager)
+
+  pip (Python package manager)
+
   Installation
 
     Clone this repository or copy the project files.
