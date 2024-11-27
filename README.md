@@ -29,7 +29,7 @@ This is a simple REST API built using Flask to manage products with the followin
   
     OK: List of products.
   
-  Setup Instructions
+  SETUP INSTRUCTIONS
 Prerequisites
 
     Python 3.x
