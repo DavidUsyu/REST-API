@@ -28,9 +28,9 @@ This is a simple REST API built using Flask to manage products with the followin
     Response: 200
   
     OK: List of products.
-  
-  SETUP INSTRUCTIONS
-Prerequisites
+
+  SETUP INSTRUCTIONS:
+  PREREQUISITES:
 
     Python 3.x
     pip (Python package manager)
