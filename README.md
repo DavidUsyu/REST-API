@@ -46,7 +46,8 @@ Prerequisites
   ```bash
   python client.py
   ````
-  Example Requests
+  Example Requests:
+  
   Add a Product:
   ```bash
   curl -X POST http://127.0.0.1:5000/products -H "Content-Type: application/json" -d '{"name": "TV", "description": "Smart TV", "price": 499.99}'
