@@ -18,7 +18,9 @@ This is a simple REST API built using Flask to manage products with the followin
   }
   ````
   Response:
+  
     201 Created: Product created successfully.
+  
     400 Bad Request: Invalid input.
   
   GET /products
