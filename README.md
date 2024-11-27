@@ -26,6 +26,7 @@ This is a simple REST API built using Flask to manage products with the followin
   GET /products
     Description: Retrieves a list of all products.
     Response:
+      ````
         200 OK: List of products.
   
   Setup Instructions
