@@ -37,7 +37,7 @@ This is a simple REST API built using Flask to manage products with the followin
 
   pip (Python package manager)
 
-  Installation
+  Installation:
 
     Clone this repository or copy the project files.
     Install Flask:
